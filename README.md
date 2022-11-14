@@ -34,5 +34,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Deployment Links 
 
-[GitHub Website]().
-[Homework Site]().
+[GitHub Website](https://github.com/Zubair-Hassam/wk13-e-commerce-back-end).
